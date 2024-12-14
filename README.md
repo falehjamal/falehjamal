@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Faleh</h1>
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+<h3 align="center">App developer from Indonesia</h3>
 
 - 🔭 I’m currently working on **SIMRS**
 
-- 📫 How to reach me **falehjamaluddin@gmail.com**
+- 📫 How to reach me [faleh.](https://faleh.id/) or mail to **falehjamaluddin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
