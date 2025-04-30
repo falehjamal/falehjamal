@@ -1,7 +1,7 @@
 # Faleh Jamaluddin
 
 <div align="center">
-  <h2>Senior Application Developer</h2>
+  <h2>Software Developer</h2>
   <p><strong>Specializing in Healthcare Information Systems | Indonesia</strong></p>
 </div>
 
